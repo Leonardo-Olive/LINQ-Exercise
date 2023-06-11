@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2084EC26-0040-47EC-8F51-2F95C19D8167}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/VideoGames.cs">
+    <Files>
+      <File FileName="LINQ/Program.cs" Line="7" Column="9" />
+      <File FileName="LINQ/VideoGames.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQ" expanded="True">
+            <Node name="LINQ" expanded="True">
+              <Node name="VideoGames.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
